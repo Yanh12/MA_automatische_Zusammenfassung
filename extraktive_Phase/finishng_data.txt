@@ -1,0 +1,8 @@
+In this file you will find links for the finishing data of the extractive step.
+1. TextRank-Lang: https://drive.google.com/file/d/14QGGDZ3iShHY-AYhFJOH2SKCITzZsLLg/view?usp=sharing
+2. TextRank-Kern: https://drive.google.com/file/d/1itgl6PFNrfu-e1TseOGxrLxgNZ06X-zD/view?usp=sharing
+3. LSA-Lang: https://drive.google.com/file/d/131dLpbDgI4CBKQoj_LJyZ2FBUB6W3Wtl/view?usp=sharing
+4. LSA-Kern: https://drive.google.com/file/d/1vlNsSF5R3zXIrqsrC7DawWvxX3fTrWw7/view?usp=sharing
+5. Ngram_Lang: https://drive.google.com/file/d/1C_l-0Swuk4BYdT4TO6XR5BXHqBIuTaFd/view?usp=sharing
+6. Ngram_Kern: https://drive.google.com/file/d/1x6BZSk2j_BLE_UpGtSvHAVFCPpbg97WW/view?usp=sharing
+7. korpusspezifische Word-Embeddings: https://drive.google.com/file/d/1MRIUH2yXf_g9duR2r3PVUuE97bg0O2rG/view?usp=sharing
