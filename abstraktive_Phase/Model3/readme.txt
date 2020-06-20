@@ -1,4 +1,4 @@
-In this folder you find scirpts needed for training the third model.
+In this folder you find scirpts needed for training the third model. The third model is the Pointer-Generator-Model which came from https://arxiv.org/pdf/1704.04368.pdf. 
 
 Firstly, the Pointer_Generator_data_preprocessing.ipynb should be used on the text-abstract-pairs to transform the data into
 the format that the model can process.
