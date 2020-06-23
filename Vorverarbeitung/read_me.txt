@@ -8,7 +8,7 @@ How to use this scirpts:
 store them into in pickel-format (they can be in strings, sentences, or tokenized forms).
 
 p.s: You can through the following links to access the final data from this step (basically the string-form, which are mainly
-used in the following formats): 
+used in the following formats, you can get other formats via the scripts, as well): 
  ----texts: https://drive.google.com/file/d/1bnZ4vC73FBA1prKSE1G7xF9KRhvBwxBn/view?usp=sharing
  ----abstracts: https://drive.google.com/file/d/1bnZ4vC73FBA1prKSE1G7xF9KRhvBwxBn/view?usp=sharing
  If you directly go to the final data provided by the links, please store them in your computer for further use.
