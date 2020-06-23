@@ -11,4 +11,5 @@ p.s: You can through the following links to access the final data from this step
 used in the following formats, you can get other formats via the scripts, as well): 
  ----texts: https://drive.google.com/file/d/1bnZ4vC73FBA1prKSE1G7xF9KRhvBwxBn/view?usp=sharing
  ----abstracts: https://drive.google.com/file/d/1bnZ4vC73FBA1prKSE1G7xF9KRhvBwxBn/view?usp=sharing
+ ----titles: https://drive.google.com/file/d/1FNHZ7w0RfjxgtUKuNMGmZlNULtV2uqz8/view?usp=sharing (in the step to create shortend reference summaries, titles are used.)
  If you directly go to the final data provided by the links, please store them in your computer for further use.
